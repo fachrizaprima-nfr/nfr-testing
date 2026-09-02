@@ -1,0 +1,3 @@
+Rencana ngetest nfr
+- Pentesting B Aci
+- Buat laporan testing
