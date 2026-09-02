@@ -2,4 +2,4 @@ Rencana ngetest nfr
 - Pentesting B Aci
 - Buat laporan testing
 - Deadline 1 minggu
-- Membuat paper 
+- Sudah update pakai template json
