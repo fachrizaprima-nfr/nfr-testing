@@ -1,0 +1,4 @@
+Rencana ngetest nfr
+- Pentesting B Aci
+- Buat laporan testing
+- Deadline 1 minggu
