@@ -5,3 +5,4 @@ Rencana ngetest nfr
 - Membuat paper 
   ^ WWWWWWWWW
   * Update papernya
+  ^ Pake template baru
